@@ -1,0 +1,34 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Dependency files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled files
+*.pyc
+*.pyd
+
+# Ignore environment variables & credentials
+.env
+.env.*
+
+# Cache & Build files
+dist/
+bui
