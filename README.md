@@ -19,5 +19,5 @@ Tvara-Sockets is a **FastAPI-powered WebSocket service** for real-time messaging
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone [https://github.com/shanmukhsrisaivedullapalli/Tvara-sockets.git]
+git clone https://github.com/shanmukhsrisaivedullapalli/Tvara-sockets.git
 cd Tvara-sockets
